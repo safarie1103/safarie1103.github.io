@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![Shape1](RackMultipart20230530-1-o9bq7r_html_7d94bf36cfafd7ba.gif)
 # Edris Safari
 
