@@ -1,16 +1,14 @@
 ![Shape4](RackMultipart20230530-1-beuuyk_html_51b5761ce0d8ce33.gif) ![Shape2](RackMultipart20230530-1-beuuyk_html_4d2aa215e8a3dff2.gif) ![Shape3](RackMultipart20230530-1-beuuyk_html_56c6b91a2154af8.gif) ![Shape1](RackMultipart20230530-1-beuuyk_html_54b7cf8a4afa4815.gif)
 
-edris safari
-
-DSC680 Project1, Milestone3
-
-Abstract
-
-Provide software-built tools to assist in making better analysis of stocks and their behavior
 
 # Project White Paper
 
 Stock Market Analysis
+edris safari
+
+Abstract
+
+Provide software-built tools to assist in making better analysis of stocks and their behavior
 
 # Contents
 
