@@ -1,5 +1,5 @@
 # Weather Reporter Design Document
-##Requirements:
+## Requirements:
 - Create a header for your program just as you have in the past.
 - Create a Python Application which asks the user for their zip code or city.
 - Use the zip code or city name in order to obtain weather forecast data from OpenWeatherMap.
