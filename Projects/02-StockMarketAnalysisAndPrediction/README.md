@@ -4,6 +4,7 @@
 # Project White Paper
 
 Stock Market Analysis
+
 edris safari
 
 Abstract
